@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../cinemai/cinemAI"
+		},
+		{
+			"name": "cinemAI",
+			"path": "../cinemAI"
+		}
+	],
+	"settings": {}
+}
